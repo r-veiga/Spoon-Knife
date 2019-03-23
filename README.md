@@ -1,3 +1,7 @@
+## Forked a mi cuenta r-veiga desde octocat el 2019.03.23
+Yujuuu... éxito 
+Probando los pasos indicados en los tutoriales para *forkear* (copiar un repositorio a mi cuenta y que ahora pueda modificarlo libremente, sin tener relación con el original).
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
